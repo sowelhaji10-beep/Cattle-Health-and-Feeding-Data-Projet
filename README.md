@@ -3,8 +3,8 @@ Analyse et Prédiction de la Santé et de la Production du Bétail à partir de 
 ## L’objectif de ce projet est d’utiliser des méthodes statistiques et de machine learning pour analyser les liens entre l’alimentation, la santé et la performance du bétail, et prédire les indicateurs de production à partir des données collectées.
 
 ## Data set 
-Nom : Cattle Health and Feeding Data
-lien kaggle : https://www.kaggle.com/datasets/shahhet2812/cattle-health-and-feeding-data
+**Nom : Cattle Health and Feeding Data
+**lien kaggle : https://www.kaggle.com/datasets/shahhet2812/cattle-health-and-feeding-data
 
 # Objectifs  : 
 -identifier les facteurs nutritionnels influençant la santé et la productivité
